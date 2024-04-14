@@ -15,5 +15,6 @@ https://huggingface.co/projecte-aina/tts-ca-coqui-vits-multispeaker
 
 
 `Training ASR using speechbrain`: https://colab.research.google.com/drive/1aFgzrUv3udM_gNJNUoLaHIm78QHtxdIz?usp=sharing
-Reference(s):
+
+`Reference(s)`: 1. https://arxiv.org/pdf/2306.00998.pdf
          
