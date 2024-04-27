@@ -1,0 +1,10 @@
+librosa
+tensorflow
+kenlm
+matplotlib
+numpy
+scipy
+soundfile
+python_speech_features
+nltk
+python-Levenshtein
