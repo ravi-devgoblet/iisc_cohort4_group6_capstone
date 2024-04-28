@@ -1,9 +1,0 @@
-h5py
-ipykernel
-jupyter
-keras
-librosa
-opencv-python
-python-speech-features
-seaborn
-soundfile
